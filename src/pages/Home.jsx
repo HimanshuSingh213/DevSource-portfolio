@@ -23,6 +23,10 @@ function Home() {
           text="Lead Portfolio"
           onClick={() => navigate("/khushi")}
         />
+        <Button
+          text="Himanshu Portfolio"
+          onClick={() => navigate("/Himanshu")}
+        />
       </div>
     </div>
   );
